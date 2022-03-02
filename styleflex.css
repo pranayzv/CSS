@@ -1,0 +1,16 @@
+
+.main-content{
+
+    display: flex;
+    flex-direction: row;
+
+}
+
+
+.sub-content{
+
+    display: flex;
+    flex-direction: column;
+    background-color: yellow;
+    
+}

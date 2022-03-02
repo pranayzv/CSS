@@ -1,0 +1,17 @@
+
+
+.main-content{
+
+    display: grid;
+    grid-template-columns: 1fr 6fr;
+
+}
+
+
+.sub-content{
+
+    display: grid;
+    grid-template-rows: auto auto;
+    background-color: yellow;
+    
+}
